@@ -1,0 +1,5 @@
+E:\project\neo-blockchain\Nep17\obj\Debug\net6.0\Nep17.csproj.AssemblyReference.cache
+E:\project\neo-blockchain\Nep17\obj\Debug\net6.0\Nep17.GeneratedMSBuildEditorConfig.editorconfig
+E:\project\neo-blockchain\Nep17\obj\Debug\net6.0\Nep17.AssemblyInfoInputs.cache
+E:\project\neo-blockchain\Nep17\obj\Debug\net6.0\Nep17.AssemblyInfo.cs
+E:\project\neo-blockchain\Nep17\obj\Debug\net6.0\Nep17.csproj.CoreCompileInputs.cache
